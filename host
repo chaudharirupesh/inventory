@@ -3,6 +3,4 @@
   vm2
   vm3
 [dbservers]
-db1
-db2
-db3
+192.168.10.[2..20]
