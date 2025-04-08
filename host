@@ -1,6 +1,2 @@
 [webservers]
-  vm1
-  vm2
-  vm3
-[dbservers]
-192.168.10.20
+  192.168.81.129
